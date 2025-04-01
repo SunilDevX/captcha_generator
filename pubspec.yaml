@@ -1,5 +1,5 @@
 name: captcha_generator
-description: "A new Flutter package project."
+description: "A Flutter package to generate captcha images with custom text, colors, and styles."
 version: 0.0.1
 homepage: https://sunilflutter.in
 repository: https://github.com/SunilDevX/captcha_generator
