@@ -29,7 +29,10 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  final CaptchaController _captchaController = CaptchaController();
+  final CaptchaController _captchaController = CaptchaController(
+    includeLowercase: true,
+  );
+
   Uint8List? _captchaBytes;
   final TextEditingController _textEditingController = TextEditingController();
 
