@@ -8,6 +8,11 @@ A simple and customizable CAPTCHA generator for Flutter applications. This packa
 - Enable or disable distortion for added security
 - Easy verification of user input
 
+
+## Example CAPTCHA Output
+
+![CAPTCHA Example](https://res.cloudinary.com/daagzbhsu/image/upload/fl_preserve_transparency/v1743486282/Screenshot_2025-04-01-11-09-22-371_com.example.example_vfhgch.jpg?_s=public-apps)
+
 ## Installation
 
 Add this package to your `pubspec.yaml`:
@@ -77,4 +82,4 @@ Feel free to contribute by submitting issues or pull requests!
 ---
 
 Happy coding! 🚀
-
+ 
